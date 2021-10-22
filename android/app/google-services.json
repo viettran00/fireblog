@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "271587885290",
+    "project_id": "thienfire-4573a",
+    "storage_bucket": "thienfire-4573a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271587885290:android:21d8889c0afee7c5dcd793",
+        "android_client_info": {
+          "package_name": "com.thienfire.thienfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271587885290-op4j5kvflmekekvkcg1uogl6ltrq7gst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmTpeUYLwWFW_-uDbrY5q1jKQ421xEUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271587885290-op4j5kvflmekekvkcg1uogl6ltrq7gst.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271587885290-4hfgrna6pd9tg9605jnvaqpde1ko8m93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thienfire.thienfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
